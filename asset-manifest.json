@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/get-weather/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/get-weather/static/js/main.68f276c3.chunk.js",
+    "main.js.map": "/get-weather/static/js/main.68f276c3.chunk.js.map",
+    "runtime-main.js": "/get-weather/static/js/runtime-main.7b1c3b64.js",
+    "runtime-main.js.map": "/get-weather/static/js/runtime-main.7b1c3b64.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/get-weather/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.71b684bd.chunk.js": "/get-weather/static/js/2.71b684bd.chunk.js",
+    "static/js/2.71b684bd.chunk.js.map": "/get-weather/static/js/2.71b684bd.chunk.js.map",
+    "static/js/3.4ae64c80.chunk.js": "/get-weather/static/js/3.4ae64c80.chunk.js",
+    "static/js/3.4ae64c80.chunk.js.map": "/get-weather/static/js/3.4ae64c80.chunk.js.map",
+    "index.html": "/get-weather/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/get-weather/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/get-weather/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.71b684bd.chunk.js.LICENSE.txt": "/get-weather/static/js/2.71b684bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b1c3b64.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.71b684bd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.68f276c3.chunk.js"
+  ]
+}
