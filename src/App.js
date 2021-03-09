@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import Nav from './components/Nav.jsx'
 import Form from './components/Form.jsx';
 import Info from './components/Info.jsx';
 import {API_KEY} from './key';
@@ -37,6 +36,7 @@ class App extends Component {
                             ${cityValue}, ${nationValue}&appid=${API_KEY}&units=metric`;
             const response = await fetch(API_URL);
             const data = await response.json();
+            console.log(data);
             
             if (!data.name) {
                 return this.setState({error: 'No results found'})
@@ -70,7 +70,6 @@ class App extends Component {
     render() {
         return (
             <React.Fragment>
-                <Nav />
                 <div className="container p-4">
                     <div className="row">
                         <div className="col-md-6 mx-auto">
